@@ -1,6 +1,7 @@
 # Author: Oyvind Ellefsen
 # Version 1.1
 # For Atea workshop
+# Niels
 
 import os
 import jinja2
